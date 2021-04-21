@@ -1,0 +1,39 @@
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\bin\Debug\netcoreapp3.1\Mock Assessment 5a.exe
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\bin\Debug\netcoreapp3.1\Mock Assessment 5a.deps.json
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\bin\Debug\netcoreapp3.1\Mock Assessment 5a.runtimeconfig.json
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\bin\Debug\netcoreapp3.1\Mock Assessment 5a.runtimeconfig.dev.json
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\bin\Debug\netcoreapp3.1\Mock Assessment 5a.dll
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\bin\Debug\netcoreapp3.1\Mock Assessment 5a.pdb
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\bin\Debug\netcoreapp3.1\Mock Assessment 5a.Views.dll
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\bin\Debug\netcoreapp3.1\Mock Assessment 5a.Views.pdb
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\Mock Assessment 5a.csprojAssemblyReference.cache
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\Mock Assessment 5a.AssemblyInfoInputs.cache
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\Mock Assessment 5a.AssemblyInfo.cs
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\Mock Assessment 5a.csproj.CoreCompileInputs.cache
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\Mock Assessment 5a.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\Mock Assessment 5a.RazorAssemblyInfo.cache
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\Mock Assessment 5a.RazorAssemblyInfo.cs
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\staticwebassets\Mock Assessment 5a.StaticWebAssets.Manifest.cache
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\staticwebassets\Mock Assessment 5a.StaticWebAssets.xml
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\scopedcss\bundle\Mock Assessment 5a.styles.css
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\Mock Assessment 5a.TagHelpers.input.cache
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\Mock Assessment 5a.TagHelpers.output.cache
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\Mock Assessment 5a.RazorCoreGenerate.cache
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\Razor\Views\Home\Calculator.cshtml.g.cs
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\Razor\Views\Home\Result.cshtml.g.cs
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\Mock Assessment 5a.RazorTargetAssemblyInfo.cache
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\Mock Assessment 5a.RazorTargetAssemblyInfo.cs
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\Mock Assessment 5a.Views.pdb
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\Mock Assessment 5a.dll
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\Mock Assessment 5a.pdb
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\Mock Assessment 5a.genruntimeconfig.cache
+C:\Users\Brooke\source\repos\Mock Assessment 5a\Mock Assessment 5a\obj\Debug\netcoreapp3.1\Mock Assessment 5a.csproj.CopyComplete
